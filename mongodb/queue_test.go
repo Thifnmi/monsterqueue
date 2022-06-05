@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tsuru/monsterqueue/mongodb"
-	"github.com/tsuru/monsterqueue/monsterqueuetest"
+	"github.com/thifnmi/mypaas/monsterqueue/mongodb"
+	"github.com/thifnmi/mypaas/monsterqueue/monsterqueuetest"
 	"gopkg.in/check.v1"
 )
 

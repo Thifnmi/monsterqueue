@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/tsuru/monsterqueue"
+	"github.com/thifnmi/mypaas/monsterqueue"
 	"gopkg.in/mgo.v2/bson"
 )
 

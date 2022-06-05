@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tsuru/monsterqueue"
-	"github.com/tsuru/monsterqueue/log"
+	"github.com/thifnmi/mypaas/monsterqueue"
+	"github.com/thifnmi/mypaas/monsterqueue/log"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

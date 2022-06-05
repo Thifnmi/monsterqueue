@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/codegangsta/cli"
-	"github.com/tsuru/monsterqueue"
-	"github.com/tsuru/monsterqueue/mongodb"
+	"github.com/thifnmi/mypaas/monsterqueue"
+	"github.com/thifnmi/mypaas/monsterqueue/mongodb"
 )
 
 var (

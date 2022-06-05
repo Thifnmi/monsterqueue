@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tsuru/monsterqueue"
+	"github.com/thifnmi/mypaas/monsterqueue"
 	"gopkg.in/check.v1"
 )
 
